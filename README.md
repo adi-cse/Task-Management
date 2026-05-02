@@ -80,7 +80,7 @@ Backend (Render):
 👉 https://full-stack-task-management-system-8ebt.onrender.com
 
 Frontend (Vercel):
-👉 [(Add your Vercel link here)](https://task-management-h7yv.vercel.app/)
+👉 https://task-management-h7yv.vercel.app
 
 ---
 
